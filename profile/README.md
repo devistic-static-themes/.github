@@ -5,7 +5,7 @@ Welcome to Devistic Static Themes, your source for stunning static website theme
 ## Explore Themes
 
 - [Complete Websites & E-Commerce sites](https://devistic-static-themes.github.io/complete.github.io/) | [github](https://github.com/devistic-static-themes/complete.github.io)
-- [Admin Dashboards](https://devistic-static-themes.github.io/dashboards.github.io/) [github](https://github.com/devistic-static-themes/dashboards.github.io)
+- [Admin Dashboards](https://devistic-static-themes.github.io/dashboards.github.io/) | [github](https://github.com/devistic-static-themes/dashboards.github.io)
 - [Simple Websites](https://devistic-static-themes.github.io/simple.github.io/) | [github](https://github.com/devistic-static-themes/simple.github.io)
 - [Metronic](https://devistic-static-themes.github.io/metronic.github.io/) | [github](https://github.com/devistic-static-themes/metronic.github.io)
 - [Metronic v7](https://devistic-static-themes.github.io/metronic_v7.github.io/) | [github](https://github.com/devistic-static-themes/metronic_v7.github.io)
