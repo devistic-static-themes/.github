@@ -1,12 +1,22 @@
-## Hi there 👋
+# Devistic Static Themes
 
-<!--
+Welcome to Devistic Static Themes, your source for stunning static website themes! This repository serves as a central hub for static themes and information.
 
-**Here are some ideas to get you started:**
+## Explore Themes
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- [Complete Websites & E-Commerce sites](https://devistic-static-themes.github.io/complete.github.io/)
+- [Admin Dashboards](https://devistic-static-themes.github.io/dashboards.github.io/)
+- [Simple Websites](https://devistic-static-themes.github.io/simple.github.io/)
+- [Metronic](https://devistic-static-themes.github.io/metronic.github.io/)
+- [Metronic v7](https://devistic-static-themes.github.io/metronic_v7.github.io/)
+- [Metronic v7](https://devistic-static-themes.github.io/metronic_v8.github.io/)
+
+Feel free to explore our themes, use them for your projects, and contribute to our open-source community.
+
+## How to Use
+
+To use one of our themes, simply visit the respective theme's GitHub repository and follow the installation and usage instructions provided in the README of that repository.
+
+---
+
+&copy; 2023 Devistic Static Themes
