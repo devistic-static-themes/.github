@@ -9,7 +9,7 @@ Welcome to Devistic Static Themes, your source for stunning static website theme
 - [Simple Websites](https://devistic-static-themes.github.io/simple.github.io/)
 - [Metronic](https://devistic-static-themes.github.io/metronic.github.io/)
 - [Metronic v7](https://devistic-static-themes.github.io/metronic_v7.github.io/)
-- [Metronic v7](https://devistic-static-themes.github.io/metronic_v8.github.io/)
+- [Metronic v8](https://devistic-static-themes.github.io/metronic_v8.github.io/)
 
 Feel free to explore our themes, use them for your projects, and contribute to our open-source community.
 
